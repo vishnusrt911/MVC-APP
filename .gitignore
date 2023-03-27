@@ -2,4 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/bin
+/obj
+/.vs
 /MVCMovie/.vs
+/MVCMovie/bin/Debug/net6.0
+/MVCMovie/obj
